@@ -1,11 +1,11 @@
-# Pricing Model using Machine Learning (Colab-ready)
+# Regression Pricing Model using Machine Learning 
 
-This repository contains a Colab-friendly Jupyter notebook and supporting files for a university demonstration project titled **"Pricing Model Using Machine Learning"** (based on the user's internship report).
+This repository contains a Colab-friendly Jupyter notebook and supporting files for a project titled **"Pricing Model Using Machine Learning"** 
 
-**IMPORTANT:** The dataset used in this notebook is **synthetically generated for demonstration purposes** — the real dataset was not provided. This is clearly indicated in this README and inside the notebook so reviewers (university / interviewers) know the data is simulated.
+**IMPORTANT:** The dataset used in this notebook is **synthetically generated for demonstration purposes** — the real dataset was not provided. This is clearly indicated in this README and inside the notebook so reviewers know the data is simulated.
 
 ## Contents
-- `notebooks/pricing_model_notebook.ipynb` — Main Colab-compatible notebook (run on Google Colab).
+- `notebooks/pricing_model_notebook.ipynb` — Main Colab-compatible notebook
 - `data/` — (not included) place your real dataset here if you have one. The notebook will still run with synthetic data.
 - `requirements.txt` — Python packages used by the notebook.
 - `README.md` — This file.
@@ -21,5 +21,3 @@ This repository contains a Colab-friendly Jupyter notebook and supporting files 
 ## Academic / Demo note
 Data in this repository and shown in plots / model results is **synthetic** and created only for demonstration. Do **not** present synthetic data as real production/company data. This is to respect confidentiality and to make the demo reproducible for reviewers.
 
----
-Created for: Aradhya Parashar — Internship report adaptation for GitHub demo
